@@ -7,7 +7,7 @@ This project welcomes contributions from developers, faculty members, students, 
 How to Contribute
 
 1. Reporting Issues
-If you find any bugs or have suggestions, you can open an Issue at GitHub Issues. Please provide the following details:
+If you find any bugs or have suggestions, you can open an Issue at [GitHub Issues.](https://github.com/RMUTI-Dev/repository/issues) Please provide the following details:
 - Description of the issue
 - Steps to reproduce the issue (if applicable)
 - System information (e.g., OS, Browser, Version)
