@@ -1,3 +1,72 @@
+CONTRIBUTING.md - Guidelines for Contributing to RMUTI-Dev
+
+Thank You for Your Interest in RMUTI-Dev! 🎉
+
+This project welcomes contributions from developers, faculty members, students, and the public who are interested in developing software for education and public benefit. If you wish to contribute, please follow the guidelines below:
+
+How to Contribute
+
+1. Reporting Issues
+
+If you find any bugs or have suggestions, you can open an Issue at GitHub Issues. Please provide the following details:
+
+Description of the issue
+
+Steps to reproduce the issue (if applicable)
+
+System information (e.g., OS, Browser, Version)
+
+2. Proposing New Features
+
+If you have ideas for new features, please open an Issue and include:
+
+Description of the proposed feature
+
+Reasons for its necessity
+
+Development approach (if any)
+
+3. Submitting Code via Pull Request (PR)
+
+To submit code for project improvements, follow these steps:
+
+Fork the project to your account.
+
+Create a new Branch for your changes (git checkout -b feature-branch).
+
+Develop and test your code to ensure it is error-free.
+
+Commit and Push your changes to your repository.
+
+Create a Pull Request (PR) and provide a clear description of your changes.
+
+⚠ PRs with clean code and clear explanations will be reviewed faster!
+
+4. Follow Code Standards
+
+Use Naming Conventions that align with the project’s standards.
+
+Write Comments to explain important code sections.
+
+Use Proper Indentation and maintain readable code structures.
+
+Test your code before submitting a PR.
+
+Rules and Guidelines
+
+Respect fellow contributors and adhere to the Code of Conduct.
+
+Avoid submitting code that violates copyrights or contains inappropriate content.
+
+Use polite and constructive language when communicating.
+
+Contact Us
+
+📧 Email: support@rmuti.ac.th🌐 Website: https://www.rmuti.ac.th
+
+Thank you for contributing to RMUTI-Dev! 🚀
+
+
 # Contributing to RMUTI-Dev
 
 ## ขอบคุณที่สนใจมีส่วนร่วมกับ RMUTI-Dev 🎉
