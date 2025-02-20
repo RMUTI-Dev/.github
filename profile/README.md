@@ -17,7 +17,7 @@ The IT division under ARIT plays a crucial role in developing and maintaining sy
 - Adoption of Docker and Kubernetes to enhance application development and deployment efficiency
 
 ## Contribution
-We welcome developers, faculty, students, and interested individuals to participate in developing software that benefits both the university and society. If you would like to contribute, please read [CONTRIBUTING.md]([CONTRIBUTING.md](https://github.com/RMUTI-Dev/.github/blob/main/CONTRIBUTING.md)) and submit a Pull Request to our project.
+We welcome developers, faculty, students, and interested individuals to participate in developing software that benefits both the university and society. If you would like to contribute, please read [CONTRIBUTING.md](https://github.com/RMUTI-Dev/.github/blob/main/CONTRIBUTING.md) and submit a Pull Request to our project.
 
 ## Contact
 📧 Email: ita@rmuti.ac.th  
